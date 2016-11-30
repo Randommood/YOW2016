@@ -55,6 +55,7 @@ If you want to see a longer version of this talk see the [Strangeloop 2015](http
 * [Flux: A New Approach to System Intuition](http://techblog.netflix.com/2015/10/flux-new-approach-to-system-intuition.html)
 * [Chaos Engineering Upgraded](http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html)
 * [Google Finds: Centralized Control, Distributed Data Architectures Work Better Than Fully Decentralized Architectures](http://highscalability.com/blog/2014/4/7/google-finds-centralized-control-distributed-data-architectu.html)
+* [Caitie's Runbook template](https://github.com/CaitieM20/Monitorama2016/blob/master/Runbook.md)
 * [Clients are Jerks: aka How Halo 4 DoSed the Services at Launch & How We Survived](http://caitiem.com/2015/06/23/clients-are-jerks-aka-how-halo-4-dosed-the-services-at-launch-how-we-survived/)
 * [Game Day Exercises at Stripe: Learning from kill -9](https://stripe.com/blog/game-day-exercises-at-stripe)
 * [How we ended up with microservices](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
