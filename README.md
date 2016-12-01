@@ -68,11 +68,11 @@ If you want to see a longer version of this talk see the [Strangeloop 2015](http
 ### Media
 * [Velocity NY 2013:   Richard Cook, "Resilience In Complex Adaptive Systems"](https://www.youtube.com/watch?v=PGLYEDpNu60&feature=youtu.be)
 * [Developing a Globally Distributed Purging System](https://www.youtube.com/watch?v=HfO_6bKsy_g) and [slides](https://speakerdeck.com/brucespang/papers-prototypes-and-production-developing-a-globally-distributed-purging-system)
+* [Joao Taveira's SRECon talk - Scaling Networks through Software](https://www.usenix.org/conference/srecon15/program/presentation/taveira)
 * [Complex Adaptive Systems: 13 Robustness & Resilience](https://www.youtube.com/watch?v=HOTWIPmkdzo)
 * [Network Theory: 16 Robustness & Resilience](https://www.youtube.com/watch?v=_ztNkmDg0mw)
 * [Design of Resilient Systems - Innovations in Thinking Differently](https://www.youtube.com/watch?v=nV52yh6GDMg)
 * [Camille Fournier's Papers We Love Talk on The Chubby lock service for loosely-coupled distributed systems](https://www.youtube.com/watch?v=PqItueBaiRg) and [slides](https://speakerdeck.com/hakka_labs/the-chubby-lock-service-for-loosely-coupled-distributed-systems)
-* [Scaling Networks through Software](https://www.usenix.org/conference/srecon15/program/presentation/taveira)
 * [Distributed Chaos Operations: Casey Rosenthal, Netflix](https://www.youtube.com/watch?v=8xIeu4S-Cro)
 * ["Building Scalable Stateful Services" by Caitie McCaffrey](https://www.youtube.com/watch?v=H0i_bXKwujQ)
 
