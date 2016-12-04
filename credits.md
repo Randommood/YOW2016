@@ -10,5 +10,6 @@
 * https://www.flickr.com/photos/stephenbegin/8704613436
 * https://www.flickr.com/photos/gehat/535647152
 * https://www.flickr.com/photos/78959697@N06/14907826743
+* https://www.flickr.com/photos/talese/5406817600
 
 Emojis from getemoji.com
