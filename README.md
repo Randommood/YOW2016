@@ -24,6 +24,7 @@ If you want to see a longer version of this talk see the [Strangeloop 2015](http
 
 ### Resilience literature
 * [Checklist to remember](http://monkey.org/~marius/checklist.pdf)
+* [Difference Between Harvest and Yield](http://www.differencebetween.net/language/words-language/difference-between-harvest-and-yield/)
 * [Harvest, Yield, and Scalable Tolerant Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.3690&rep=rep1&type=pdf)
 * [Computer Immunology - Burgess](http://people.scs.carleton.ca/~soma/biosec/readings/burgess-immunology.pdf)
 * [Building Robust Systems an essay - Sussman](http://groups.csail.mit.edu/mac/users/gjs/6.945/readings/robust-systems.pdf)
