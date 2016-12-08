@@ -12,5 +12,6 @@
 * https://www.flickr.com/photos/78959697@N06/14907826743
 * https://www.flickr.com/photos/talese/5406817600
 * https://www.flickr.com/photos/telstar/2278473717
+* https://www.flickr.com/photos/42890356@N02/14066488424
 
 Emojis from getemoji.com
