@@ -79,6 +79,7 @@ If you want to see a longer version of this talk see the [Strangeloop 2015](http
 
 ### About Reading Papers
 * [Papers we love](http://paperswelove.org/)
+* [Starting a PWL chapter](https://github.com/papers-we-love/organizers)
 * [The Morning Paper](https://blog.acolyer.org/)
 * [ACM queue Research for Practice](http://queue.acm.org/detail.cfm?id=2949831)
 * [The Morning Paper Quarterly Review Issue 1](https://www.infoq.com/minibooks/emag-the-morning-paper-q1)
